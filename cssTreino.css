@@ -1,0 +1,18 @@
+.grandeVerde{
+    font-size: 30px;
+    color: green;
+}
+.fundoRed{
+    background-color: red;
+    
+    }
+    .corBranca{
+        color: #ffffff;
+    }
+    p{
+        font-style: italic;
+    }
+.grandeAzul{
+            font-size: 30px;
+            color: blue;
+        }

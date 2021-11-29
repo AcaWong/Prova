@@ -1,0 +1,43 @@
+#Geral{
+    width: auto;
+    height: 624px;
+    margin: auto;
+    border: 1px solid;
+ }
+
+#Menu{
+    float: left;
+    width: 20%;
+    margin: auto;
+    height: 624px;
+    
+}
+
+#cmenu{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#logo{
+    width: 150px;
+    margin: auto;
+    display: block;
+    background-color: white;
+
+
+}
+#titulo{
+    font-family: arial;
+    text-align: center;
+    
+}
+.but{
+    margin-bottom: 5px;
+}
+
+
+.imgconteudo{
+    margin: auto;
+    display: block;
+    margin-top: 3%;
+}
+
